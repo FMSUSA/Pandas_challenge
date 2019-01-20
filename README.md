@@ -1,4 +1,4 @@
-###  pandas_analysis
+###  Pandas_Analysis
 
 ### Heroes of Pymoli Game Data Analysis
 
